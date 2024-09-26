@@ -18,6 +18,17 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.featuredPuppyUL{
+  list-style: none;
+  margin: 0;
+  padding: 5px;
+  text-align: left;
+}
+
+.featuredPuppyDiv{
+  background-color:rgb(48, 48, 87);
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
